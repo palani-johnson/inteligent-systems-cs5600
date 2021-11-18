@@ -6,6 +6,14 @@ authors = ["Palani Johnson <palani.johnson@usu.edu>"]
 
 [tool.poetry.dependencies]
 python = "3.9.7"
+tensorflow = "^2.6.0"
+tflearn = "*"
+numpy = "*"
+scipy = "*"
+matplotlib = "*"
+keras = "^2.6.0"
+sklearn = "^0.0"
+scikit-image = "^0.18.3"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
