@@ -6,6 +6,8 @@ authors = ["Palani Johnson <palani.johnson@usu.edu>"]
 
 [tool.poetry.dependencies]
 python = "3.9.7"
+numpy = "^1.21.4"
+matplotlib = "^3.5.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
