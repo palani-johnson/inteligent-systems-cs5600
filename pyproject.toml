@@ -5,7 +5,13 @@ description = "Code for Inteligent Systems - cs5600"
 authors = ["Palani Johnson <palani.johnson@usu.edu>"]
 
 [tool.poetry.dependencies]
-python = "3.9.7"
+python = "^3.7.0"
+numpy = "^1.21.4"
+pandas = "^1.3.5"
+matplotlib = "^3.5.1"
+tensorflow = "^2.7.0"
+keras = "^2.7.0"
+ipython = "^7.30.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
