@@ -2,3 +2,6 @@
 __pycache__
 data
 mnist
+sartorius-cell-instance-segmentation
+unet_keras_model.h5
+output
